@@ -24,7 +24,7 @@ export function Myabout2()
 export function Myabout3()
 {
     return(
-        <div>
+        <div >
             <h1>this is heading</h1>
             <p>this is text</p>
             <ul>
@@ -33,6 +33,7 @@ export function Myabout3()
                 <li>home</li>
                 <li>home</li>
             </ul>
+            <section className="box"></section>
 
         </div>
 
