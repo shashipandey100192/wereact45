@@ -1,0 +1,71 @@
+react.js
+===================================
+1) install 
+	1) node.js
+	2) git bash
+	3) git account create
+2) related name
+	1) package
+	2) modules
+	3) node_modules
+	4) flag
+	5) package.lock.json
+	6) master branch
+	7) what is git ?
+	8) what is npm ?
+	9) what is npx ?
+	10) component ?
+	11) what is node.js ?
+	12) compailar ?
+3) file type
+	.js
+	.jsx
+	.ts
+	.tsx
+------------------------------------------
+4) create react project
+	npx create-react-app "projectname"
+5) code .  (open in vscode)
+6) npm start (run application, start application)
+7) ctrl + c  ( close server)
+8) types of component(page,file)
+	1) function
+	2) class
+9) types import or export
+	1) name export / import  {}
+	2) default import / export  
+Note: function name and file name must have start from capital letter
+Note: one file has one default function
+Note: return single elment 
+------------------------------------------------------
+git
+============================
+	1) git login
+	2) git init 	//initialized
+	Note: repo name and project name must have same.
+	3) create repo
+	4) git remote -v	// check connection
+	5) git remote add origin "repo path"	// create connection
+	6) git add --all		// add all chaned file
+	7) git commit -m "message for"
+	8) git push origin branchname(master)	
+	9) git clone "repo path"		//clone project
+	Note: after clone "npm install" (for install node_modules) 
+	----------------------
+	1) git add --all
+	2) git commit -m "msg"
+	3) git pull origin master
+	Note: if install new package , npm install after pull data
+
+	------------------------------------------------
+	git config --global user.email "emailid"
+	git config --global user.name "kumar"
+
+	
+	
+	
+
+
+
+
+	
