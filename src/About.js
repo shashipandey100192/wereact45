@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Fragment } from "react";
 
 function Myabout()
 {
@@ -24,7 +24,7 @@ export function Myabout2()
 export function Myabout3()
 {
     return(
-        <div >
+        <Fragment>
             <h1>this is heading</h1>
             <p>this is text</p>
             <ul>
@@ -34,9 +34,17 @@ export function Myabout3()
                 <li>home</li>
             </ul>
             <section className="box"></section>
+        </Fragment>
 
-        </div>
+    )
+}
 
+export function Heading()
+{
+    return(
+        <Fragment>
+            computer
+        </Fragment>
     )
 }
 

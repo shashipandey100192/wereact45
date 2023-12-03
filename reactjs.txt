@@ -60,7 +60,36 @@ git
 	------------------------------------------------
 	git config --global user.email "emailid"
 	git config --global user.name "kumar"
+---------------------------------------------------------------
+10) element wrap
+	1) html element
+	2) <></>  // blank
+	3) Fragment
+11)  react UI
+	1) custom (html,css,js)
+	2) bootstrap
+	3) react-bootstrap
+	4) metrial-ui
 
+12) bootstrap
+	 npm install bootstrap		// install current version
+	 npm install bootstrap@3.0.0		// install particular version
+	 npm uninstall bootstrp			// uninstall package
+--------------------------------------------------
+Note:	class 		replace 	className
+	a		replace		Link
+	href		replace		to
+---------------------------------------------------
+13) image display
+	1) src folder
+	2) public folder
+	3) online 
+ 
+
+	
+
+	
+	
 	
 	
 	
