@@ -84,7 +84,14 @@ Note:	class 		replace 	className
 	1) src folder
 	2) public folder
 	3) online 
- 
+-----------------------------------------------------------
+14) icon / react icon
+	1) npm install react-icons --save
+	2) import 
+15) routing
+	1) npm install react-router-dom
+
+
 
 	
 
