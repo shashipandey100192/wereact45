@@ -1,0 +1,25 @@
+.sidenav
+{
+    width:250px;
+    height: 100vh;
+    background-color: beige;
+    position: fixed;
+}
+.page
+{
+    width:84%;
+    height:auto;
+    /* border:1px solid gray; */
+    box-sizing: border-box;
+    padding:20px 50px 0px 50px;
+    background-color: azure;
+    margin-left: 252px;
+}
+.c-img
+{
+    width: 70px;
+    height: 70px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 32px;
+}

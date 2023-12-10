@@ -47,7 +47,7 @@ function Myregistor() {
                 </div>
                 <div className='col-12 text-center'>
                     <div class="mb-3">
-                       <button className='btn btn-success'>submit</button>
+                       <Link className='btn btn-success' to="/">Registor Now</Link>
                        <button className='btn btn-danger ms-3'>cancel</button>
                     </div>
                 </div>

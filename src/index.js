@@ -6,6 +6,8 @@ import Mynav from './shares/Mynav';
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.js";
 import Myregistor from './modules/Auth/Myregistor';
+import Landingpage from './modules/Dashboard/Landingpage';
+import "./modules/global.css";
 
 
 
@@ -18,6 +20,7 @@ root.render(
       <Routes>
           <Route path='/' element={<Mylogin/>}/>
           <Route path='registor' element={<Myregistor/>}/>
+          <Route path='dashboard' element={<Landingpage/>}/>
       </Routes>
      </BrowserRouter>
    
