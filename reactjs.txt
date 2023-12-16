@@ -91,14 +91,20 @@ Note:	class 		replace 	className
 15) routing
 	1) npm install react-router-dom
 	2) import 
-
+-----------------------------------------------------------
+16) react hooks(function)
+	useState()
+	useEffect()
+	
+	
+	
 
 
 	
 
 	
 	
-	https://assets.justinmind.com/wp-content/uploads/2020/02/dashboard-design-example-hcare.png
+https://assets.justinmind.com/wp-content/uploads/2020/02/dashboard-design-example-hcare.png
 	
 	
 

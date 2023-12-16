@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import { Link } from 'react-router-dom';
 
 
 function Mynav() {
@@ -34,7 +35,7 @@ function Mynav() {
                                         </ul>
                                     </li>
                                     <li className="nav-item">
-                                        <a className="nav-link disabled" aria-disabled="true">Disabled</a>
+                                        <Link className="nav-link" to="myuserform">forms</Link>
                                     </li>
                                    
                                 </ul>

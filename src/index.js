@@ -8,6 +8,7 @@ import "bootstrap/dist/js/bootstrap.bundle.js";
 import Myregistor from './modules/Auth/Myregistor';
 import Landingpage from './modules/Dashboard/Landingpage';
 import "./modules/global.css";
+import Myforms from './modules/Dashboard/Myforms';
 
 
 
@@ -21,6 +22,7 @@ root.render(
           <Route path='/' element={<Mylogin/>}/>
           <Route path='registor' element={<Myregistor/>}/>
           <Route path='dashboard' element={<Landingpage/>}/>
+          <Route path='myuserform' element={<Myforms/>}/>
       </Routes>
      </BrowserRouter>
    
